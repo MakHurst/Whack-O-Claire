@@ -21,7 +21,7 @@
 
 .mole {
 
-    background-image: url("/images/claire.jpeg");
+    background-image: url("/Whack-O-Claire/images/claire.jpeg");
     background-size: cover;
 
     
@@ -30,4 +30,7 @@
 #header {
 
     text-align: center;
+    font-size: 80px;
+    font-family: 'Rubik Marker Hatch', cursive;
+    color: green;
 }
