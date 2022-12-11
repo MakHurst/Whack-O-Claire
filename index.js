@@ -52,7 +52,6 @@ function countDown() {
         clearInterval(countDownTimerId)
         clearInterval(timerId)
         alert("Game Over! You scored a " + result)
-        quit()
     }
 
 }
